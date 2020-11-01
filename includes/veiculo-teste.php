@@ -1,27 +1,3 @@
-	<header style="border-bottom: 3px solid #EB2D2D;">
-		<div class="container">
-			<div class="logo">
-				<img src="imagens/logo.jpg" />
-			</div><!--logo-->
-			<nav class="desktop">
-				<ul>
-					<li><a href="index.html">Home</a></li>
-					<li><a style="color:#EB2D2D;" href="venda.html">Venda</a></li>
-					<li><a href="sobre.html">Sobre</a></li>
-					<li><a goto="contato" href="">Contato</a></li>
-				</ul>
-			</nav><!--desktop-->
-			<nav class="mobile">
-				<ul>
-					<li><a href="index.html">Home</a></li>
-					<li><a style="color:#EB2D2D;" href="venda.html">Venda</a></li>
-					<li><a href="sobre.html">Sobre</a></li>
-					<li><a href="">Contato</a></li>
-				</ul>
-			</nav><!--mobile-->
-			<div class="clear"></div>
-		</div><!--container-->
-	</header>
 	<section class="venda-single">
 		<div class="line-titulo">
 			<div class="ln1"></div>

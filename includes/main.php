@@ -1,28 +1,4 @@
-	<header>
-		<div class="container">
-			<div class="logo">
-				<img src="imagens/logo.jpg" />
-			</div><!--logo-->
-			<nav class="desktop" >
-				<ul>
-					<li><a style="color:#EB2D2D;" href="?pagina=main">Home</a></li>
-					<li><a href="?pagina=venda">Venda</a></li>
-					<li><a href="?pagina=sobre">Sobre</a></li>
-					<li><a href="?pagina=contato">Contato</a></li>
-				</ul>
-			</nav><!--desktop-->
-			<nav class="mobile">
-				<ul>
-					<li><a style="color:#EB2D2D;" href="?pagina=main">Home</a></li>
-					<li><a href="?pagina=venda">Venda</a></li>
-					<li><a href="?pagina=sobre">Sobre</a></li>
-					<li><a href="?pagina=contato">Contato</a></li>
-				</ul>
-			</nav><!--mobile-->
-			<div class="clear"></div>
-		</div><!--container-->
-	</header>
-	<section class="banner">
+		<section class="banner">
 		<div class="container">
 			<div class="text-banner">
 				<div class="text-banner-single">Consultoria</div>
