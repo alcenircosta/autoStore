@@ -1,35 +1,22 @@
-<!DOCTYPE html>
-<html lang="pt-br">
-<head>
-	<title>Projeto 05</title>
-	<link href="https://fonts.googleapis.com/css?family=Oswald" rel="stylesheet">
-	<link href="css/style.css" rel="stylesheet">
-	<meta charset="utf-8" />
-	<meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0">
-	<meta name="description" content="Front end website desenvolvido durante curso de programação"/>
-	<meta name="keywords" content="programação,desenvolvimento web, desenvolvimento front end,SEO"/>
-	<meta name="author" content="Alcenir da Costa"/>
-</head>
-<body>
 	<header>
 		<div class="container">
 			<div class="logo">
 				<img src="imagens/logo.jpg" />
 			</div><!--logo-->
-			<nav class="desktop">
+			<nav class="desktop" >
 				<ul>
-					<li><a style="color:#EB2D2D;" href="index.html">Home</a></li>
-					<li><a href="venda.html">Venda</a></li>
-					<li><a href="sobre.html">Sobre</a></li>
-					<li><a goto="contato" href="">Contato</a></li>
+					<li><a style="color:#EB2D2D;" href="?pagina=main">Home</a></li>
+					<li><a href="?pagina=venda">Venda</a></li>
+					<li><a href="?pagina=sobre">Sobre</a></li>
+					<li><a href="?pagina=contato">Contato</a></li>
 				</ul>
 			</nav><!--desktop-->
 			<nav class="mobile">
 				<ul>
-					<li><a style="color:#EB2D2D;" href="index.html">Home</a></li>
-					<li><a href="venda.html">Venda</a></li>
-					<li><a href="sobre.html">Sobre</a></li>
-					<li><a goto="contato" href="">Contato</a></li>
+					<li><a style="color:#EB2D2D;" href="?pagina=main">Home</a></li>
+					<li><a href="?pagina=venda">Venda</a></li>
+					<li><a href="?pagina=sobre">Sobre</a></li>
+					<li><a href="?pagina=contato">Contato</a></li>
 				</ul>
 			</nav><!--mobile-->
 			<div class="clear"></div>
@@ -133,21 +120,4 @@
 			<div class="clear"></div><!--clear-->
 		</form>
 	</section><!--contato-->
-	<footer>
-		<div class="container">
-			<nav>
-				<ul>
-					<li><a id="home" style="color:#EB2D2D;" href="index.html">Home</a></li>
-					<li><a href="venda.html">Venda</a></li>
-					<li><a href="sobre.html">Sobre</a></li>
-					<li><a goto="contato" href="">Contato</a></li>
-				</ul>
-			</nav>
-			<p>Todos os direitos reservados</p>
-			<div class="clear"></div>
-		</div><!--container-->
-	</footer>
-	<script src="js/jquery.js"></script>
-	<script src="js/functions.js"></script>
-</body>
-</html>
+	
