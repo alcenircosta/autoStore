@@ -1,16 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<title>Projeto 05</title>
-	<meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0">
-	<link href="https://fonts.googleapis.com/css?family=Oswald" rel="stylesheet">
-	<link href="css/style.css" rel="stylesheet">
-	<meta charset="utf-8" />
-	<meta name="description" content="Front end website desenvolvido durante curso de programação"/>
-	<meta name="keywords" content="programação,desenvolvimento web, desenvolvimento front end,SEO"/>
-	<meta name="author" content="Alcenir da Costa"/>
-</head>
-<body>
 	<header style="border-bottom: 3px solid #EB2D2D;">
 		<div class="container">
 			<div class="logo">
@@ -145,8 +132,3 @@
 				<p>Todos os direitos reservados</p>
 				<div class="clear"></div>
 			</div><!--container-->
-		</footer>
-		<script src="js/jquery.js"></script>
-		<script src="js/functions.js"></script>
-	</body>
-	</html>
