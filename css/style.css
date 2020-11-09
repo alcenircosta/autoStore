@@ -278,6 +278,14 @@ section.contato input[type=text]{
 	line-height: 40px;
 	padding-left: 15px;
 }
+section.contato input[type=text]:hover,
+section.contato textarea:hover{
+border:2px solid red;
+}
+section.contato input[type=text]:focus,
+section.contato textarea:focus{
+background-color: rgb(250,250,250);
+}
 section.contato textarea{
 	font-size: 16px;
 	width: 100%;
