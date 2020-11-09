@@ -73,28 +73,4 @@
 			</div><!--depoimento-single-->
 		</div><!--half2-->
 	</section><!--servicos-descricao-->
-	<section id="contato" class="contato">
-		<div class="line-titulo">
-			<div class="ln1"></div>
-			<h2>Contato</h2>
-		</div><!--line-titulo-->
-		<form>
-			<div class="input-wraper w100">
-				<input placeholder="Nome*" type="text" required />
-			</div><!--input-wraper-->
-			<div class="input-wraper w50">
-				<input placeholder="E-mail*" type="text" required />
-			</div><!--input-wraper-->
-			<div class="input-wraper w50">
-				<input placeholder="Telefone*" type="text" required />
-			</div><!--input-wraper-->
-			<div class="input-wraper w100">
-				<textarea placeholder="Mensagem*" required></textarea>
-			</div><!--input-wraper-->
-			<div class="input-wraper w100">
-				<input class="btn1" type="submit" value="Enviar" />
-			</div><!--input-wraper-->
-			<div class="clear"></div><!--clear-->
-		</form>
-	</section><!--contato-->
 	
