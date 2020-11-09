@@ -20,7 +20,7 @@
 				<div class="info-carro">
 					<h2>Volkswagen Karmann-ghia</h2>
 					<p>1.6 8v, Gasolina, 2P, Manual1969</p>
-					<a class="btn1" href="venda.html">Mais Detalhes</a>
+					<a class="btn1" href="?pagina=venda">Mais Detalhes</a>
 				</div><!--info-carro-->
 			</div><!--vitrine-destaque-->
 			<div class="vitrine-destaque">
@@ -28,7 +28,7 @@
 				<div class="info-carro">
 					<h2>Volkswagen Karmann-ghia</h2>
 					<p>1.6 8v, Gasolina, 2P, Manual1969</p>
-					<a class="btn1" href="venda.html">Mais Detalhes</a>
+					<a class="btn1" href="?pagina=venda">Mais Detalhes</a>
 				</div><!--info-carro-->
 			</div><!--vitrine-destaque-->
 			<div class="vitrine-destaque">
@@ -36,7 +36,7 @@
 				<div class="info-carro">
 					<h2>Volkswagen Karmann-ghia</h2>
 					<p>1.6 8v, Gasolina, 2P, Manual1969</p>
-					<a class="btn1" href="venda.html">Mais Detalhes</a>
+					<a class="btn1" href="?pagina=venda">Mais Detalhes</a>
 				</div><!--info-carro-->
 			</div><!--vitrine-destaque-->
 			<div class="clear"></div>

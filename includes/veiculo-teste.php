@@ -5,9 +5,9 @@
 		</div>
 		<div class="container">
 			<div class="info-veiculo">
-				<div class="info-bread"><a href="">HOME</a><span>></span>
-					<a href="">VENDA</a><span>></span>
-					<a href="">VEÍCULO DE TESTE</a></div>
+				<div class="info-bread"><a href="?pagina=main">HOME</a><span>></span>
+					<a href="?pagina=venda">VENDA</a><span>></span>
+					<a href="?pagina=veiculo-teste">VEÍCULO DE TESTE</a></div>
 					<div class="foto-destaque"></div>
 					<div class="nav-galeria-parent">
 						<div class="arrow-left-nav"></div>
